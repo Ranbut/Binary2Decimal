@@ -1,5 +1,5 @@
 # Binary2Decimal
-Read this in [Português](https://github.com/Ranbut/Binary2Decimal/main/README.pt_br.md)
+Read this in [Português](https://github.com/Ranbut/Binary2Decimal/blob/main/README.br.md)
 
 A simple converter that picks binary values and convert to decimal, that uses html, css, javascript.
 
